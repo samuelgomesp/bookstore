@@ -4,7 +4,12 @@ Projeto criado com intuito de simular um programa que cria produtos e ordens de 
 
 ## Tecnologias utilizadas 
 
-- Javascript
+<div align="center"> 
+<img align="left" alt="Node" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
+<img align="left" alt="Javascript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+
+</div>
+<br/><br/>
 
 ## Exemplo de Uso
 
